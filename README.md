@@ -1,2 +1,2 @@
-https://github.com/SJ001/AI-Feynman
-元のAI-Feynmanプログラムの次元解析が機能しなくなっていたので次元解析部分を修正
+This is a modified version of AI-Feynman : https://github.com/SJ001/AI-Feynman.
+Dimentional analisys function is modified so that it can actually work.
